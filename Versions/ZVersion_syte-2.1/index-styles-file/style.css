@@ -1,0 +1,417 @@
+body {
+background-color: black;
+color: white;
+font-size: 12px;
+}
+
+.deustch-class {
+font-family: MBCorpo Text,sans-serif;
+font-size: 11px;
+font-wight: 900;
+margin-left: 26.8px;
+margin-top: 22.4px;
+display: inline-block;
+}
+
+.back_color_and_new_screan_deutch {
+color: #606060;
+-webkit-transition: all 1s ease;
+transition: all 1s ease;
+text-decoration: none;
+}
+
+.back_color_and_new_screan_deutch:hover {
+color: white;
+}
+
+
+
+
+
+
+.palka {
+color: lightgray;
+font-wight: 700;
+display: inline-block;
+padding-left: 15px;
+}
+
+.lang {
+font-family: MBCorpo Text, sans-serif;
+color: white;
+font-size: 11.3px;
+font-wight: 900;
+display: inline-block;
+padding-left: 11px;
+}
+
+
+
+
+
+
+
+
+
+.provid {
+font-family: MBCorpo Text, sans-serif;
+font-size: 12px;
+font-wight: 800;
+display: inline-block;
+padding-left: 55px;
+}
+
+.back_color_provid {
+color: #808080;
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+text-decoration: none;
+}
+
+.back_color_provid:hover {
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.search {
+font-family: MBCorpo Text, sans-serif;
+font-size: 11px;
+font-wight: 900;
+margin-left: 1368px;
+display: inline-block;
+}
+
+.back_color_search {
+color: #808080;
+-webkit-transition: all 1s ease;
+transition: all 1s ease;
+text-decoration: none;
+}
+
+.back_color_search:hover {
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.login {
+font-family: MBCorpo Text,sans-serif;
+font-size: 11px;
+font-wight: 900;
+margin-left: 1755px;
+margin-top: -26px;
+}
+
+.back_color_log_in {
+color: #808080;
+-webkit-transition: all 1s ease;
+transition: all 1s ease;
+text-decoration: none;
+}
+
+.back_color_log_in:hover {
+color: white;
+}
+
+
+
+
+
+
+
+
+
+.lypa {
+margin-left: 1674px;
+margin-top: -27px;
+width: 21px;
+Transform: scale(-1, 1)
+}
+.arrow {
+font-wight: 600;
+color: DarkGrey;
+margin-left: 1790px;
+margin-top: -23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-boss-art-culture {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+margin-top: 77px;
+margin-left: 495px;
+letter-spacing: .0.5rem;
+height: 50px;
+align-items: center;
+display: inline-block;
+}
+
+.text-boss-art-culture-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-art-culture-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+.text-boss-sustainability {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+padding-left: 70px;
+letter-spacing: .0.5rem;
+height: 50px;
+display: inline-block;
+}
+
+.text-boss-sustainability-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-sustainability-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+
+
+
+.text-boss-design {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+padding-left: 78px;
+letter-spacing: .0.5rem;
+height: 50px;
+display: inline-block;
+}
+
+.text-boss-design-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-design-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+
+
+.text-boss-innovation {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+padding-left: 73px;
+letter-spacing: .0.5rem;
+height: 50px;
+display: inline-block;
+}
+
+.text-boss-innovation-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-innovation-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+
+
+.text-boss-exclusive {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+padding-left: 75px;
+letter-spacing: .0.5rem;
+height: 50px;
+display: inline-block;
+}
+
+.text-boss-exclusive-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-exclusive-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+
+.text-boss-vehicles {
+font-family: MBCorpo Text,sans-serif;
+font-size: 17.4px;
+font-wight: 900;
+padding-left: 72px;
+letter-spacing: .0.5rem;
+height: 50px;
+display: inline-block;
+}
+
+.text-boss-vehicles-url-class {
+color: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+text-decoration: none;
+}
+
+.text-boss-vehicles-url-class:hover {
+color: #808080;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.merc_logo2 {
+text-align: center;
+margin-top: 27px;
+}
+
+.intro {
+max-height: 100vh;
+overflow: hidden;
+position: relative;
+}
+
+.video {
+position: relative;
+padding-bottom: 56.25%;
+}
+
+
+
+
+
+
+
+
+
+.h1_class_text_svehru_cartinki {
+position: absolute;
+color: white;
+padding-top: 150px;
+padding-left: 112px;
+font-size: 40px;
+font-family: Battambang, Regular;
+}
+
+.h1_class_text2_svehru_cartinki_vtor_str {
+color: white;
+position: absolute;
+padding-top: 200px;
+padding-left: 112px;
+font-size: 40px;
+font-family: Battambang, Regular;
+}
+
+.button-input-class-sverhu-video {
+position: absolute;
+border-radius: 25px;
+width: 158px;
+height: 34px;
+color: black;
+background: white;
+-webkit-transition: all 0.5s ease;
+transition: all 0.5s ease;
+margin-top: 306px;
+margin-left: 112px;
+font-size: 14px;
+font-family: Verdana;
+}
+
+.button-input-class-sverhu-video:hover {
+background: #1E90FF;
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.video__media {
+width: 100%;
+height: auto;
+position: absolute;
+top: 0;
+left 0;
+}

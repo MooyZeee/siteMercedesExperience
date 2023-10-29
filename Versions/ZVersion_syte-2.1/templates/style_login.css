@@ -1,0 +1,70 @@
+body {
+background-color: black;
+color: white;
+}
+
+.mp7_orig_background {
+text-align: center;
+}
+
+.reg_vhod {
+font-size: 30px;
+text-align: center;
+}
+
+.reg_vhod:hover {
+color: 10px red;
+}
+
+
+
+
+
+
+
+
+.login_field-center {
+text-align: center;
+}
+
+.login_avtorizacii{
+text-align: center;
+font-size: 20px;
+}
+
+
+
+
+
+
+
+
+.password_field-center {
+text-align: center;
+}
+
+.password_avtorizacii {
+text-align: center;
+font-size: 20px;
+}
+
+
+
+
+
+
+submit_back_align-center {
+text-align: center;
+}
+
+.submit_back_center {
+display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 12px;
+    background-color: white;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
